@@ -11,6 +11,8 @@
 		BAD12F1529CDDB9F006AE325 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAD12F1429CDDB9F006AE325 /* ContentView.swift */; };
 		BAD12F1729CDDBA1006AE325 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAD12F1629CDDBA1006AE325 /* Assets.xcassets */; };
 		BAD12F1A29CDDBA1006AE325 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAD12F1929CDDBA1006AE325 /* Preview Assets.xcassets */; };
+		BAD12F2129CDDBDC006AE325 /* RatingsDistributionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAD12F2029CDDBDC006AE325 /* RatingsDistributionView.swift */; };
+		BAD12F2329CDDBF4006AE325 /* Star.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAD12F2229CDDBF4006AE325 /* Star.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		BAD12F1429CDDB9F006AE325 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BAD12F1629CDDBA1006AE325 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BAD12F1929CDDBA1006AE325 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BAD12F2029CDDBDC006AE325 /* RatingsDistributionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingsDistributionView.swift; sourceTree = "<group>"; };
+		BAD12F2229CDDBF4006AE325 /* Star.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Star.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				BAD12F1229CDDB9F006AE325 /* SwiftUIAppStoreRatingsDistributionChartApp.swift */,
 				BAD12F1429CDDB9F006AE325 /* ContentView.swift */,
+				BAD12F2029CDDBDC006AE325 /* RatingsDistributionView.swift */,
+				BAD12F2229CDDBF4006AE325 /* Star.swift */,
 				BAD12F1629CDDBA1006AE325 /* Assets.xcassets */,
 				BAD12F1829CDDBA1006AE325 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				BAD12F1529CDDB9F006AE325 /* ContentView.swift in Sources */,
 				BAD12F1329CDDB9F006AE325 /* SwiftUIAppStoreRatingsDistributionChartApp.swift in Sources */,
+				BAD12F2129CDDBDC006AE325 /* RatingsDistributionView.swift in Sources */,
+				BAD12F2329CDDBF4006AE325 /* Star.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
